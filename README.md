@@ -4,7 +4,7 @@ Portafolio de tareas
 Roman Xool Samuel David
 ___________________________
 
-Tarea 998
+#Tarea 998
 
 Instalar virtual box y alguna distribución de linux (Distribución Debian)
 
@@ -12,9 +12,9 @@ Instalar virtual box y alguna distribución de linux (Distribución Debian)
 
 ___________________________
 
-Tarea 997
+#Tarea 997
 
-Hacer el vim adventures (los niveles gratuitos)
+Hacer el https://vim-adventures.com/ los niveles gratuitos
 
 <a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/Vim%20Adventures%20lv3.PNG" target="_blank"> <img src="/Vim%20Adventures%20lv3.PNG"/></a>
 

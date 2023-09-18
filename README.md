@@ -25,7 +25,7 @@ Tarea 996
 Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, 
 el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
 
-<a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/Vim%20Adventures%20lv3.PNG" target="_blank"> <img src="/Vim%20Adventures%20lv3.PNG"/></a>
+<a href="https://asciinema.org/a/4LgfqfSdYXjrQEQ1YnWZk9doa" target="_blank"><img src="https://asciinema.org/a/4LgfqfSdYXjrQEQ1YnWZk9doa.svg" /></a>
 
 
 

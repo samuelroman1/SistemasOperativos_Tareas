@@ -31,6 +31,15 @@ Codigo del menu:
 <a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/menu.txt" target="_blank"> Menu</a>
 
 
+___________________________
+
+#Tarea 995
+
+Crear un gif que explique algun concepto, relacionado al curso, que hayas aprendido.
+
+![GIF](https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/Gif.mp4)
+
+
 
 
 

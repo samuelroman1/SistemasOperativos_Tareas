@@ -37,7 +37,7 @@ ___________________________
 
 Crear un gif que explique algun concepto, relacionado al curso, que hayas aprendido.
 
-![Gifc](https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/Gifc.gif))
+![Gifc](https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/Gifc.gif)
 
 
 

@@ -27,7 +27,7 @@ el script de hola mundo y el script de saludo usando variables y por último la 
 
 <a href="https://asciinema.org/a/34Ck13r3H5P2RgKpSXgOi90ju" target="_blank"><img src="https://asciinema.org/a/34Ck13r3H5P2RgKpSXgOi90ju.svg" /></a>
 
-
+Codigo del menu:
 <a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/menu.txt" target="_blank"> Menu</a>
 
 

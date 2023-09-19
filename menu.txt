@@ -1,0 +1,37 @@
+#!/bin/bash
+SCRIPT=""
+
+while true
+do
+	echo "
+	 
+	▒█▀▄▀█ ▒█▀▀▀ ▒█▄░▒█ ▒█░▒█ 
+	▒█▒█▒█ ▒█▀▀▀ ▒█▒█▒█ ▒█░▒█ 
+	▒█░░▒█ ▒█▄▄▄ ▒█░░▀█ ░▀▄▄▀
+	  "
+
+	echo -e "1.-\033[40m\033[33m Arbol de directorios \033[0m"
+	echo -e "2.-\033[40m\033[33m Hola mundo  \033[0m"
+	echo -e "3.-\033[40m\033[33m Saludo con variables  \033[0m"	
+	echo -e "x.-\033[40m\033[33m Salir  \033[0m"
+
+	echo -n "Selecciona un script: "
+	read SCRIPT
+
+	case ${SCRIPT} in
+		1)
+			source arbol_de_directorios.sh
+			;;
+		2)
+			source hola_mundo.sh
+			;;
+		3)
+			source saludo.sh
+			;;
+		x)
+			break
+			;;
+		*)
+			echo "Esa opcion no existe"
+	esac
+done

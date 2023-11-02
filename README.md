@@ -44,8 +44,7 @@ Crear un gif que explique algun concepto, relacionado al curso, que hayas aprend
 
 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
 
-Archivo del menu (./Menu-actualizado/menu.sh)
-
+(./Menu-actualizado/menu.sh)
 
 
 

@@ -39,12 +39,15 @@ Crear un gif que explique algun concepto, relacionado al curso, que hayas aprend
 
 ![Gifs](https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/GifS.gif)
 
+_____
 
 Tarea #994
 
 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
 
   - [menu](./Menu-actualizado/menu.sh)
+
+_____
 
 Tarea #993 
 
@@ -53,18 +56,23 @@ Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/
 Comandos Utilizados de 
 <a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/TerminalBandit.txt" target="_blank"> bandit</a>
 
+_____
+
 Tarea #992
 
 Participar en el hacktoberfest https://x.com/hacktoberfest/status/1706642413895241838?s=46&t=wh4RmHitx0mloV0NlU800w
 
 <a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/Hacktoberfest.PNG" target="_blank"> <img src="/Hacktoberfest.PNG" width="auto" height="auto"/></a>
 
+_____
 
 Tarea #991 
 
 Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis. 
 
 <a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/TryhackmeLinux.PNG" target="_blank"> <img src="/TryhackmeLinux.PNG" width="auto" height="auto"/></a> <a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/myroms.PNG" target="_blank"> <img src="/myroms.PNG" width="auto" height="auto"/></a>
+
+_____
 
 Tarea #989 
 

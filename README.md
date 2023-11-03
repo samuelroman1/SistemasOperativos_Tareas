@@ -47,4 +47,17 @@ Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
   - [menu](./Menu-actualizado/menu.sh)
 
 
+Tarea #991 
+
+Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis. 
+
+<a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/TryhackmeLinux.PNG" target="_blank"> <img src="/TryhackmeLinux.png" width="auto" height="auto"/></a>
+
+
+
+
+
+
+
+
 

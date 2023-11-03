@@ -51,7 +51,7 @@ Tarea #991
 
 Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis. 
 
-<a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/TryhackmeLinux.PNG" target="_blank"> <img src="/TryhackmeLinux.png" width="auto" height="auto"/></a>
+<a href="https://github.com/samuelroman1/SistemasOperativos_Tareas/blob/main/TryhackmeLinux.PNG" target="_blank"> <img src="/TryhackmeLinux.PNG" width="auto" height="auto"/></a>
 
 
 
